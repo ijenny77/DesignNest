@@ -1,7 +1,7 @@
 # 🌟 Project Title
 
 ## 📌 Description
-This project is a UI/UX design created in Figma.  
+This project is a first UI/UX design created in Figma.  
 It demonstrates the layout and interaction of a modern application interface.
 
 ## 🎨 Prototype Link
